@@ -37,7 +37,7 @@ public class exercicio04 {
         if (cdg == 5) {
             total = qtd * 1.5;
         }
-        System.out.printf("total: R$ %.2f%n", total);
+        System.out.printf("Total: R$ %.2f%n", total);
 
         scanner.close();
     }
