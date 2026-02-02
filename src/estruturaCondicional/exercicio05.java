@@ -2,7 +2,7 @@ package estruturaCondicional;
 
 import java.util.*;
 
-public class exercicio04 {
+public class exercicio05 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
