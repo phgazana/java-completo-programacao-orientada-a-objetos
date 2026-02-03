@@ -2,7 +2,7 @@ package estruturaFor;
 
 import javax.swing.*;
 
-public class exercicio02 {
+public class Exercicio02 {
     public static void main(String[] args) {
 
         int x, soma, in = 0, out = 0;

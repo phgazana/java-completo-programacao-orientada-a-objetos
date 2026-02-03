@@ -2,7 +2,7 @@ package estruturaFor;
 
 import javax.swing.*;
 
-public class exercicio06 {
+public class Exercicio06 {
     public static void main(String[] args) {
 
         int num = Integer.parseInt(JOptionPane.showInputDialog("Insira um número:"));

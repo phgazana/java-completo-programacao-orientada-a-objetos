@@ -2,7 +2,7 @@ package estruturaCondicional;
 
 import javax.swing.*;
 
-public class exercicio06 {
+public class Exercicio06 {
     public static void main(String[] args) {
 
         double valor = Double.parseDouble(JOptionPane.showInputDialog("Insira o valor:"));

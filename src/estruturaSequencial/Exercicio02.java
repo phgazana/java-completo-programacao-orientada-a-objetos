@@ -3,7 +3,7 @@ package estruturaSequencial;
 import javax.swing.JOptionPane;
 import java.util.Locale;
 
-public class exercicio02 {
+public class Exercicio02 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

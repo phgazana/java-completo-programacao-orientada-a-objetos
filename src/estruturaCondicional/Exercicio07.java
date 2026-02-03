@@ -3,7 +3,7 @@ package estruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio07 {
+public class Exercicio07 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

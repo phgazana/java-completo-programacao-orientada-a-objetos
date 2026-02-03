@@ -2,7 +2,7 @@ package estruturaWhile;
 
 import javax.swing.*;
 
-public class exercicio01 {
+public class Exercicio01 {
     public static void main(String[] args) {
 
         int senha;

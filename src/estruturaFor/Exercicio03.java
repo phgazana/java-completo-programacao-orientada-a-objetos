@@ -2,7 +2,7 @@ package estruturaFor;
 
 import javax.swing.*;
 
-public class exercicio03 {
+public class Exercicio03 {
     public static void main(String[] args) {
 
         int n = Integer.parseInt(JOptionPane.showInputDialog("Insira o número de casos de teste:"));

@@ -3,7 +3,7 @@ package estruturaFor;
 import javax.swing.*;
 import java.util.*;
 
-public class exercicio04 {
+public class Exercicio04 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

@@ -3,7 +3,7 @@ package estruturaCondicional;
 import javax.swing.*;
 
 
-public class exercicio04 {
+public class Exercicio04 {
     public static void main(String[] args) {
 
         int horaInicial = Integer.parseInt(JOptionPane.showInputDialog("Insira a hora inicial do jogo:"));
